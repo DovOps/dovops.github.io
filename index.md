@@ -37,15 +37,4 @@ This is an informal index of some of the most recent projects I've been playing 
 
 3. **[Sefaria Sidebar Extension](https://github.com/DovOps/SefariaSidebarExtension)** - While learning Daf Yomi, we often found ourselves leaning on Sefaria to get some of the references off the page. Instead of switching context, I thought it would be a good idea to bring the references onto the page in a non-intrusive way by using a Chrome extension to inject a Daf-specific reference toolbar onto the most popular Daf Yomi portals. I created a flexible daf recognizer that would invite anyone to contribute new sites to the list, and this has been very helpful in my daily learning.  This project - much to my surprise - won the ["Powered By Sefaria" Programming Contest](https://www.sefaria.org/powered-by-sefaria-contest-2020)  in the summer of 2020. 
 
-
-
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-LQ29LHCFFQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-LQ29LHCFFQ');
-</script>
+ 

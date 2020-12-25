@@ -3,4 +3,5 @@ title: DovOps
 description: A place to house all my hobby open source  projects
 plugins:
   - jekyll-seo-tag
-google_analytics: G-LQ29LHCFFQ
+google_analytics: UA-257123447
+

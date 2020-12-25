@@ -1,6 +1,6 @@
 ## Welcome!
 
-This is a placeholder for my various hobby tech projects.  Right now I'm mostly playing with [Peloton](#p) and [Whoop](#w) data that's produced by my devices, but I also do some [Jewish Scholarship](#j) coding on the side.
+You've reached the home for my various hobby tech projects.  Right now I'm mostly playing with [Peloton](#p) and [Whoop](#w) data that's produced by my devices, but I also do some [Jewish Scholarship](#j) coding on the side.
 
 This is an informal index of some of the most recent projects I've been playing with. If you're interested, I'd love to hear your ideas. As always, PRs are most certainly welcome!
 

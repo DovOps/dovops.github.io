@@ -4,6 +4,12 @@ You've reached the home for my various hobby tech projects.  Right now I'm mostl
 
 This is an informal index of some of the most recent projects I've been playing with. If you're interested, I'd love to hear your ideas. As always, PRs are most certainly welcome!
 
+ 
+![Twitter Followers](https://img.shields.io/twitter/follow/DovOps?style=social)  &nbsp;
+![GitHub followers](https://img.shields.io/github/followers/DovOps?style=social) &nbsp; 
+![Peloton Profile](./dovops-badge.svg)
+
+
 ### <a name="p"></a>Peloton Projects
 
 1. **[peloton-api-spec](https://github.com/pelo-tech/peloton-api-spec)** - One thing that really bugged me was how inconsistently the Peloton APIs were used in various scripts and projects I saw on the web. Wouldn't it be great if we just had a properly documented (or almost properly documented) schema describing what the API could actually do? Perhaps we can generate client-side code, or just use a spec viewer to properly test drive the API.. Nothing was there, so to start, I took what I could discover, and published it on SwaggerHub and here.

@@ -7,7 +7,7 @@ This is an informal index of some of the most recent projects I've been playing 
  
 ![Twitter Followers](https://img.shields.io/twitter/follow/DovOps?style=social)  &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/DovOps?style=social) &nbsp; 
-![Peloton Profile](./dovops-badge.svg)
+[![Peloton Profile][./dovops-badge.svg][https://members.onepeloton.com/members/DovOps/overview]]
 
 
 ### <a name="p"></a>Peloton Projects

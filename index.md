@@ -26,7 +26,7 @@ This is an informal index of some of the most recent projects I've been playing 
 
 1. **[whoop-api-spec](https://github.com/pelo-tech/whoop-api-spec)** - Similar to Peloton - Whoop data is all locked up and difficult to get and analyze. I decided to look into what was possible, and as I went along, documented a proper API spec that we could then reference to experiment and unlock some of the data that we were producing. Together with my peloton data I've produced some pretty interesting Google Data Studio visualizations.
 
-2. **[whoop-google-sheet](https://github.com/pelo-tech/whoop-google-sheet)** - I really wanted my whoop data accessible in a spreadsheet so I can plot/analyze it, etc.  Using the API I documented, I created some code that helps maintain up to date whoop metrics in a google sheet - with a trigger which keeps it up to date automatically.
+2. **[whoop-google-sheets](https://github.com/pelo-tech/whoop-google-sheets)** - I really wanted my whoop data accessible in a spreadsheet so I can plot/analyze it, etc.  Using the API I documented, I created some code that helps maintain up to date whoop metrics in a google sheet - with a trigger which keeps it up to date automatically.
 
  
 ### <a name="j"></a>Jewish Scholarship Projects
